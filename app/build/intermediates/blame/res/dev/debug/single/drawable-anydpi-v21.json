@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi-v21\\ic_camera_alt_24dp.xml",
+        "source": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\generated\\res\\pngs\\dev\\debug\\drawable-anydpi-v21\\ic_camera_alt_24dp.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi-v21\\heart.xml",
+        "source": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\generated\\res\\pngs\\dev\\debug\\drawable-anydpi-v21\\heart.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi-v21\\heart_empty.xml",
+        "source": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\generated\\res\\pngs\\dev\\debug\\drawable-anydpi-v21\\heart_empty.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi-v21\\ic_done_24dp.xml",
+        "source": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\generated\\res\\pngs\\dev\\debug\\drawable-anydpi-v21\\ic_done_24dp.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi-v21\\ic_whatshot_black_24dp.xml",
+        "source": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\generated\\res\\pngs\\dev\\debug\\drawable-anydpi-v21\\ic_whatshot_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi-v21\\ic_person_outline_black_24dp.xml",
+        "source": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\generated\\res\\pngs\\dev\\debug\\drawable-anydpi-v21\\ic_person_outline_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi-v21\\ic_chat_24dp.xml",
+        "source": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\generated\\res\\pngs\\dev\\debug\\drawable-anydpi-v21\\ic_chat_24dp.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi-v21\\heart_full.xml",
+        "source": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\generated\\res\\pngs\\dev\\debug\\drawable-anydpi-v21\\heart_full.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-anydpi-v21\\ic_person_add_24dp.xml",
+        "source": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\generated\\res\\pngs\\dev\\debug\\drawable-anydpi-v21\\ic_person_add_24dp.xml"
+    }
+]

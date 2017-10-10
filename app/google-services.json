@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "284792744183",
+    "firebase_url": "https://friendlypix-android-mast-3f8ae.firebaseio.com",
+    "project_id": "friendlypix-android-mast-3f8ae",
+    "storage_bucket": "friendlypix-android-mast-3f8ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284792744183:android:58607e5bb914b2f6",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.friendlypix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284792744183-ue1osus6q9ol161niip4hkdsqd6go09t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.samples.apps.friendlypix",
+            "certificate_hash": "743197308a769e1a5a4f1dc669918be7e1191063"
+          }
+        },
+        {
+          "client_id": "284792744183-jgfbo8cubnghkdjjud8qip457lnelmr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtMcooHHnufrgFogVjbpTyOVWbJgYSgNM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284792744183-jgfbo8cubnghkdjjud8qip457lnelmr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

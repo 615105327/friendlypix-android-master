@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\menu\\menu_main.xml",
+        "source": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\menu\\nav_drawer.xml",
+        "source": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\src\\main\\res\\menu\\nav_drawer.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\menu\\menu_feeds.xml",
+        "source": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\src\\main\\res\\menu\\menu_feeds.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\menu\\menu_feed.xml",
+        "source": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\src\\main\\res\\menu\\menu_feed.xml"
+    }
+]

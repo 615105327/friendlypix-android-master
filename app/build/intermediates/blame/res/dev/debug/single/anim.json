@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Knight\\.android\\build-cache\\7a23c491f662be3434dc2087e1e70f4d9d369d51\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Knight\\.android\\build-cache\\7a23c491f662be3434dc2087e1e70f4d9d369d51\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Knight\\.android\\build-cache\\7a23c491f662be3434dc2087e1e70f4d9d369d51\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Knight\\.android\\build-cache\\3dbbabd1ed1ea9f07cf098b92b2de8c2c2b082fa\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Knight\\.android\\build-cache\\7a23c491f662be3434dc2087e1e70f4d9d369d51\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Knight\\.android\\build-cache\\3dbbabd1ed1ea9f07cf098b92b2de8c2c2b082fa\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Knight\\.android\\build-cache\\3dbbabd1ed1ea9f07cf098b92b2de8c2c2b082fa\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Knight\\.android\\build-cache\\7a23c491f662be3434dc2087e1e70f4d9d369d51\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Knight\\.android\\build-cache\\7a23c491f662be3434dc2087e1e70f4d9d369d51\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Knight\\.android\\build-cache\\7a23c491f662be3434dc2087e1e70f4d9d369d51\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Knight\\.android\\build-cache\\7a23c491f662be3434dc2087e1e70f4d9d369d51\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Knight\\.android\\build-cache\\3dbbabd1ed1ea9f07cf098b92b2de8c2c2b082fa\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Knight\\.android\\build-cache\\7a23c491f662be3434dc2087e1e70f4d9d369d51\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Knight\\.android\\build-cache\\3dbbabd1ed1ea9f07cf098b92b2de8c2c2b082fa\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Knight\\.android\\build-cache\\7a23c491f662be3434dc2087e1e70f4d9d369d51\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\BU\\ec601\\friendlypix-android-master\\friendlypix-android-master\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Knight\\.android\\build-cache\\3dbbabd1ed1ea9f07cf098b92b2de8c2c2b082fa\\output\\res\\anim\\design_snackbar_in.xml"
+    }
+]
